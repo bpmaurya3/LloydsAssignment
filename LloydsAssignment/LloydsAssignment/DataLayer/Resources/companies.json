@@ -1,0 +1,352 @@
+[
+    {
+        "id": "1",
+        "name": "Apple Inc.",
+        "type": "Stock",
+        "symbol": "AAPL",
+        "currentValue": 145.32,
+        "percentageChange": 1.24,
+        "description": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California.",
+        "timestamp": "2024-06-19T10:00:00Z",
+        "image": "https://picsum.photos/200/300?random=8",
+        "logoImage": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+        "sector": "Technology",
+        "historicalData": [
+            {
+                "date": "2023-06-12",
+                "value": 144.1
+            },
+            {
+                "date": "2023-06-11",
+                "value": 143.85
+            },
+            {
+                "date": "2023-06-10",
+                "value": 144.25
+            },
+            {
+                "date": "2023-06-09",
+                "value": 145
+            },
+            {
+                "date": "2023-06-08",
+                "value": 144.75
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Tesla Inc.",
+        "type": "Stock",
+        "symbol": "TSLA",
+        "currentValue": 722.34,
+        "percentageChange": -2.45,
+        "description": "Tesla Inc. is an American electric vehicle and clean energy company.",
+        "timestamp": "2024-06-19T10:00:00Z",
+        "image": "https://picsum.photos/200/300?random=9",
+        "logoImage": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Tesla_logo.png",
+        "sector": "Consumer Cyclical",
+        "historicalData": [
+            {
+                "date": "2023-06-12",
+                "value": 740.2
+            },
+            {
+                "date": "2023-06-11",
+                "value": 735.5
+            },
+            {
+                "date": "2023-06-10",
+                "value": 730.3
+            },
+            {
+                "date": "2023-06-09",
+                "value": 745.1
+            },
+            {
+                "date": "2023-06-08",
+                "value": 742
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Microsoft Corporation",
+        "type": "Stock",
+        "symbol": "MSFT",
+        "currentValue": 294.56,
+        "percentageChange": 0.87,
+        "description": "Microsoft Corporation is a multinational technology company developing software, electronics, and personal computers.",
+        "timestamp": "2024-06-19T10:00:00Z",
+        "image": "https://picsum.photos/200/300?random=10",
+        "logoImage": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo_2022.svg",
+        "sector": "Technology",
+        "historicalData": [
+            {
+                "date": "2023-06-12",
+                "value": 290.5
+            },
+            {
+                "date": "2023-06-11",
+                "value": 289.2
+            },
+            {
+                "date": "2023-06-10",
+                "value": 288.8
+            },
+            {
+                "date": "2023-06-09",
+                "value": 292.1
+            },
+            {
+                "date": "2023-06-08",
+                "value": 291.4
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Amazon.com, Inc.",
+        "type": "Stock",
+        "symbol": "AMZN",
+        "currentValue": 3374.45,
+        "percentageChange": -1.65,
+        "description": "Amazon is an American multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
+        "timestamp": "2024-06-19T10:00:00Z",
+        "image": "https://picsum.photos/200/300?random=11",
+        "logoImage": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+        "sector": "Consumer Cyclical",
+        "historicalData": [
+            {
+                "date": "2023-06-12",
+                "value": 3430.3
+            },
+            {
+                "date": "2023-06-11",
+                "value": 3422.1
+            },
+            {
+                "date": "2023-06-10",
+                "value": 3415.8
+            },
+            {
+                "date": "2023-06-09",
+                "value": 3450
+            },
+            {
+                "date": "2023-06-08",
+                "value": 3439.6
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Alphabet Inc.",
+        "type": "Stock",
+        "symbol": "GOOGL",
+        "currentValue": 2581.18,
+        "percentageChange": 1.42,
+        "description": "Alphabet Inc. is the parent company of Google, specializing in internet services and products.",
+        "timestamp": "2024-06-19T10:00:00Z",
+        "image": "https://picsum.photos/200/300?random=12",
+        "logoImage": "https://upload.wikimedia.org/wikipedia/commons/5/51/Google_logo.svg",
+        "sector": "Technology",
+        "historicalData": [
+            {
+                "date": "2023-06-12",
+                "value": 2543.1
+            },
+            {
+                "date": "2023-06-11",
+                "value": 2535.6
+            },
+            {
+                "date": "2023-06-10",
+                "value": 2528
+            },
+            {
+                "date": "2023-06-09",
+                "value": 2570.8
+            },
+            {
+                "date": "2023-06-08",
+                "value": 2563.7
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "NVIDIA Corporation",
+        "type": "Stock",
+        "symbol": "NVDA",
+        "currentValue": 620.15,
+        "percentageChange": 3.54,
+        "description": "NVIDIA Corporation is an American multinational technology company known for its graphics processing units (GPUs).",
+        "timestamp": "2024-06-19T10:00:00Z",
+        "image": "https://picsum.photos/200/300?random=13",
+        "logoImage": "https://upload.wikimedia.org/wikipedia/commons/2/22/Nvidia_logo.svg",
+        "sector": "Technology",
+        "historicalData": [
+            {
+                "date": "2023-06-12",
+                "value": 600.4
+            },
+            {
+                "date": "2023-06-11",
+                "value": 595.2
+            },
+            {
+                "date": "2023-06-10",
+                "value": 590.3
+            },
+            {
+                "date": "2023-06-09",
+                "value": 607.9
+            },
+            {
+                "date": "2023-06-08",
+                "value": 603.5
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Meta Platforms, Inc.",
+        "type": "Stock",
+        "symbol": "META",
+        "currentValue": 359.85,
+        "percentageChange": 2.13,
+        "description": "Meta Platforms, Inc. (formerly Facebook, Inc.) is a multinational conglomerate in the technology industry.",
+        "timestamp": "2024-06-19T10:00:00Z",
+        "image": "https://picsum.photos/200/300?random=14",
+        "logoImage": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Facebook_Logo_2023.png",
+        "sector": "Communication Services",
+        "historicalData": [
+            {
+                "date": "2023-06-12",
+                "value": 351.2
+            },
+            {
+                "date": "2023-06-11",
+                "value": 349.6
+            },
+            {
+                "date": "2023-06-10",
+                "value": 348.5
+            },
+            {
+                "date": "2023-06-09",
+                "value": 356.2
+            },
+            {
+                "date": "2023-06-08",
+                "value": 352
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Adobe Inc.",
+        "type": "Stock",
+        "symbol": "ADBE",
+        "currentValue": 625.4,
+        "percentageChange": 0.97,
+        "description": "Adobe Inc. is an American multinational computer software company, known for products like Photoshop and Acrobat.",
+        "timestamp": "2024-06-19T10:00:00Z",
+        "image": "https://picsum.photos/200/300?random=15",
+        "logoImage": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Adobe_logo_2020.svg",
+        "sector": "Technology",
+        "historicalData": [
+            {
+                "date": "2023-06-12",
+                "value": 617.1
+            },
+            {
+                "date": "2023-06-11",
+                "value": 615.4
+            },
+            {
+                "date": "2023-06-10",
+                "value": 613.8
+            },
+            {
+                "date": "2023-06-09",
+                "value": 623
+            },
+            {
+                "date": "2023-06-08",
+                "value": 619.6
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Netflix Inc.",
+        "type": "Stock",
+        "symbol": "NFLX",
+        "currentValue": 506.71,
+        "percentageChange": -0.56,
+        "description": "Netflix Inc. is an American multinational streaming service provider and production company.",
+        "timestamp": "2024-06-19T10:00:00Z",
+        "image": "https://picsum.photos/200/300?random=16",
+        "logoImage": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Netflix_2015_logo.svg",
+        "sector": "Communication Services",
+        "historicalData": [
+            {
+                "date": "2023-06-12",
+                "value": 510.3
+            },
+            {
+                "date": "2023-06-11",
+                "value": 507.8
+            },
+            {
+                "date": "2023-06-10",
+                "value": 509.5
+            },
+            {
+                "date": "2023-06-09",
+                "value": 514.2
+            },
+            {
+                "date": "2023-06-08",
+                "value": 511.7
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Intel Corporation",
+        "type": "Stock",
+        "symbol": "INTC",
+        "currentValue": 49.34,
+        "percentageChange": -0.92,
+        "description": "Intel Corporation is an American multinational corporation that designs and manufactures semiconductor products.",
+        "timestamp": "2024-06-19T10:00:00Z",
+        "image": "https://picsum.photos/200/300?random=17",
+        "logoImage": "https://upload.wikimedia.org/wikipedia/commons/4/44/Intel_logo.svg",
+        "sector": "Technology",
+        "historicalData": [
+            {
+                "date": "2023-06-12",
+                "value": 50.1
+            },
+            {
+                "date": "2023-06-11",
+                "value": 49.8
+            },
+            {
+                "date": "2023-06-10",
+                "value": 49.5
+            },
+            {
+                "date": "2023-06-09",
+                "value": 50.3
+            },
+            {
+                "date": "2023-06-08",
+                "value": 49.7
+            }
+        ]
+    }
+]
