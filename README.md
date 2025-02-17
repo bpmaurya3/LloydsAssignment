@@ -12,6 +12,8 @@ This iOS application has the following features:
 * On tap of any row, will show the Details of the company
 * Details contains historical data & full description having the option `Show more` or `Show less`
 * Image caching using `ImageCache`
+* Unit-tests
+* UI-Tests
 
 Optional features implemented:
 * This a universal app supporting iPad as well.
